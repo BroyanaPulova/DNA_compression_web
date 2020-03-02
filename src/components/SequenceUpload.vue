@@ -29,7 +29,7 @@
           x-large
           color="success"
           @click.native="processSelectedFiles()"
-        >Compres {{files.length}} files</v-btn>
+        >Parse {{files.length}} files</v-btn>
       </v-row>
     </v-container>
   </v-flex>
